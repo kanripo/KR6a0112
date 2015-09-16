@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說八正道經
+#+DATE: 2015-08-30 19:31:46.531780
+#+PROPERTY: JUAN 0
